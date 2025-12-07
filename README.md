@@ -20,7 +20,16 @@ This repo has everything from the talk.
 
 4. **<a href="https://www.youtube.com/watch?v=WQ2INT4s4Uw&list=PLkqpKepgEfOvAX0dvq_37jrLoNvXFsbxv&index=4" target="_blank">VPC Flow Log Analysis</a>** — 100,000 lines of flow logs. Planted exploits. AI finds them all and writes the incident report.
 
-**<a href="https://www.youtube.com/watch?v=TnXcstMX6Po&list=PLkqpKepgEfOvAX0dvq_37jrLoNvXFsbxv" target="_blank">Full Playlist</a>** — All demos in one place.
+**[Full Playlist](https://www.youtube.com/watch?v=TnXcstMX6Po&list=PLkqpKepgEfOvAX0dvq_37jrLoNvXFsbxv" target="_blank">Full Playlist</a>** — All demos in one place.
+
+## AI Personas
+
+The actual prompts I used in the demos:
+
+- **[Network Operations Agent](personas/Network%20Operations%20Agent%20Persona.md)** — VPC flow log analysis, network mapping, security group tracing
+- **[Threat Hunter Agent](personas/Threat%20Hunter%20Agent%20Persona.md)** — PCAP analysis, C2 detection, incident response
+
+These are the real 150+ line prompts with detailed instructions, context, and formatting rules.
 
 ## The Point
 
@@ -43,8 +52,6 @@ Because network troubleshooting needs more humor:
 ## Want More?
 
 I wrote a <a href="https://fugate.dev" target="_blank">full blog post</a> about this with the practical how-to guide, real examples, and lessons learned (including the time AI `rm -rf`'d my data directory).
-
-The actual prompts I used are coming soon. The examples in the talk were simplified for readability — the real ones are 150+ lines with detailed instructions, context, and formatting rules.
 
 ## Questions?
 
