@@ -20,7 +20,7 @@ This repo has everything from the talk.
 
 4. **<a href="https://www.youtube.com/watch?v=WQ2INT4s4Uw&list=PLkqpKepgEfOvAX0dvq_37jrLoNvXFsbxv&index=4" target="_blank">VPC Flow Log Analysis</a>** — 100,000 lines of flow logs. Planted exploits. AI finds them all and writes the incident report.
 
-**[Full Playlist](https://www.youtube.com/watch?v=TnXcstMX6Po&list=PLkqpKepgEfOvAX0dvq_37jrLoNvXFsbxv" target="_blank">Full Playlist</a>** — All demos in one place.
+**<a href="https://www.youtube.com/watch?v=TnXcstMX6Po&list=PLkqpKepgEfOvAX0dvq_37jrLoNvXFsbxv" target="_blank">Full Playlist</a>** — All demos in one place.
 
 ## AI Personas
 
